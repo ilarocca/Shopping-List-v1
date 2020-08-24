@@ -1,3 +1,3 @@
 # Shopping List App Challenge
 
-This repo contains starter files for the *Shopping List App* challenge.
+This is my attempt at using jQuery to transverse and manipulate the DOM to make an interactive shopping list application. 
